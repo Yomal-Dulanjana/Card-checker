@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Credit Card Validation";
+}
+
+<h2>Credit Card Validation</h2>
+
+@if (ViewData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        @ViewData["Error"]
+    </div>
+}
+
+<form method="post">
+    <div class="form-group">
+        <label for="CardNumber">Card Number</label>
+        <input type="text" class="form-control" id="CardNumber" name="CardNumber" required>
+    </div>
+    <div class="form-group">
+        <label for="ExpiryMonth">Expiry Month</label>
+        <input type="number" class="form-control" id="ExpiryMonth" name="ExpiryMonth" min="1" max="12" required>
+    </div>
+    <div class="form-group">
+        <label for="ExpiryYear">Expiry Year</label>
+        <input type="number" class="form-control" id="ExpiryYear" name="ExpiryYear" min="@DateTime.Now.Year" max="@(DateTime.Now.Year + 20)" required>
+    </div>
+    <div class="form-group">
+        <label for="CVV">CVV</label>
+        <input type="text" class="form-control" id="CVV" name="CVV" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Validate</button>
+</form>

@@ -1,0 +1,7 @@
+D:\Office\WebApplication1\obj\Debug\net8.0\Card_Checker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office\WebApplication1\obj\Debug\net8.0\Card_Checker.AssemblyInfoInputs.cache
+D:\Office\WebApplication1\obj\Debug\net8.0\Card_Checker.AssemblyInfo.cs
+D:\Office\WebApplication1\obj\Debug\net8.0\Card_Checker.csproj.CoreCompileInputs.cache
+D:\Office\WebApplication1\obj\Debug\net8.0\Card_Checker.MvcApplicationPartsAssemblyInfo.cache
+D:\Office\WebApplication1\obj\Debug\net8.0\Card_Checker.RazorAssemblyInfo.cache
+D:\Office\WebApplication1\obj\Debug\net8.0\Card_Checker.RazorAssemblyInfo.cs

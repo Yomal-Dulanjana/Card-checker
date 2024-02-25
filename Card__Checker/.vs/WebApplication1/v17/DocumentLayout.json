@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Office\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C171FB67-8E95-4A89-BAAA-67D54AA35BE7}|WebApplication1.csproj|d:\\office\\webapplication1\\controllers\\creditcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C171FB67-8E95-4A89-BAAA-67D54AA35BE7}|WebApplication1.csproj|solutionrelative:controllers\\creditcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C171FB67-8E95-4A89-BAAA-67D54AA35BE7}|WebApplication1.csproj|d:\\office\\webapplication1\\models\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C171FB67-8E95-4A89-BAAA-67D54AA35BE7}|WebApplication1.csproj|solutionrelative:models\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C171FB67-8E95-4A89-BAAA-67D54AA35BE7}|WebApplication1.csproj|d:\\office\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C171FB67-8E95-4A89-BAAA-67D54AA35BE7}|WebApplication1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C171FB67-8E95-4A89-BAAA-67D54AA35BE7}|WebApplication1.csproj|d:\\office\\webapplication1\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C171FB67-8E95-4A89-BAAA-67D54AA35BE7}|WebApplication1.csproj|solutionrelative:views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C171FB67-8E95-4A89-BAAA-67D54AA35BE7}|Card_Checker.csproj|d:\\office\\webapplication1\\card_checker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C171FB67-8E95-4A89-BAAA-67D54AA35BE7}|Card_Checker.csproj|solutionrelative:card_checker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card_Checker",
+              "DocumentMoniker": "D:\\Office\\WebApplication1\\Card_Checker.csproj",
+              "RelativeDocumentMoniker": "Card_Checker.csproj",
+              "ToolTip": "D:\\Office\\WebApplication1\\Card_Checker.csproj",
+              "RelativeToolTip": "Card_Checker.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-25T15:57:24.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "D:\\Office\\WebApplication1\\Views\\Home\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Success.cshtml",
+              "ToolTip": "D:\\Office\\WebApplication1\\Views\\Home\\Success.cshtml",
+              "RelativeToolTip": "Views\\Home\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T15:53:36.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Office\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Office\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T15:40:28.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreditCardController.cs",
+              "DocumentMoniker": "D:\\Office\\WebApplication1\\Controllers\\CreditCardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CreditCardController.cs",
+              "ToolTip": "D:\\Office\\WebApplication1\\Controllers\\CreditCardController.cs",
+              "RelativeToolTip": "Controllers\\CreditCardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:38:44.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "D:\\Office\\WebApplication1\\Models\\CreditCard.cs",
+              "RelativeDocumentMoniker": "Models\\CreditCard.cs",
+              "ToolTip": "D:\\Office\\WebApplication1\\Models\\CreditCard.cs",
+              "RelativeToolTip": "Models\\CreditCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:37:53.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
